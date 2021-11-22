@@ -1,0 +1,14 @@
+<resources>
+    <string name="video_preview">Video Preview</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="join_meeting">Join Meeting</string>
+    <string name="camera_off">Camera Off</string>
+    <string name="teacher_not_joined">Please be patient, Speaker will be joining soon.</string>
+    <string name="chat_room">Chat Room</string>
+    <string name="type_something">Type Something</string>
+    <string name="reply">Reply</string>
+    <string name="change_layout">Change Layout</string>
+    <string name="half_screen">Half</string>
+    <string name="full">Full</string>
+</resources>
